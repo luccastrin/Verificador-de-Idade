@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(115, 115, 255);
+}
+
+section {
+    background-color: rgb(255, 220, 220);
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px black;
+}
+
+h1, p {
+    text-align: center;
+}
+
+#botao {
+    width: 100px;
+    height: 25px;
+    text-transform: uppercase;
+}
